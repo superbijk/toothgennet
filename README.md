@@ -13,3 +13,5 @@ A research series on deep generative modeling of tooth anatomy.
 
 ## Correspondence
 **Chawalit Chanintonsongkhla** · <chawalit.ch@up.ac.th>
+
+Claude Code was used for programming assistance. The author reviewed all generated content and confirms its correctness, integrity, and full responsibility for the work.
